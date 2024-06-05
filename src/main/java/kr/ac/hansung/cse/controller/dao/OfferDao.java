@@ -1,6 +1,6 @@
-package kr.ac.hansung.cse.dao;
+package kr.ac.hansung.cse.controller.dao;
 
-import kr.ac.hansung.cse.model.Offer;
+import kr.ac.hansung.cse.controller.model.Offer;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 

@@ -1,4 +1,4 @@
-import kr.ac.hansung.cse.model.Student;
+import kr.ac.hansung.cse.controller.model.Student;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.test.context.ContextConfiguration;

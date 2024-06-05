@@ -1,7 +1,7 @@
-package kr.ac.hansung.cse.controller;
+package kr.ac.hansung.cse.controller.controller;
 
-import kr.ac.hansung.cse.exception.OfferNotFoundException;
-import kr.ac.hansung.cse.model.ErrorResponse;
+import kr.ac.hansung.cse.controller.exception.OfferNotFoundException;
+import kr.ac.hansung.cse.controller.model.ErrorResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;

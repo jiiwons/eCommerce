@@ -1,4 +1,4 @@
-package kr.ac.hansung.cse.controller;
+package kr.ac.hansung.cse.controller.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,5 +1,5 @@
-import kr.ac.hansung.cse.dao.OfferDao;
-import kr.ac.hansung.cse.model.Offer;
+import kr.ac.hansung.cse.controller.dao.OfferDao;
+import kr.ac.hansung.cse.controller.model.Offer;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
